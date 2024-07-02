@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am a 15+ years experienced software engineer. My Background is in Java and Spring and other complimentary technologies. At my job, I am currently working on developing Java/Spring Azure functions. I have recently been experimenting with developing Spring Boot 3.3 Azure functions using Java 21 preview. Also, on the side, I am always interested in learning different design principles and philosophies, such as SOLID vs CUPID, TDD, DDD, etc.
+I am a software engineer with over 15 years of experience, specializing in Java and Spring frameworks along with complementary technologies. Currently, I am focused on developing Java/Spring Azure functions. Recently, I have been experimenting with Spring Boot 3.3 Azure functions using Java 21 preview. Additionally, I am passionate about exploring various design principles and philosophies, including SOLID vs. CUPID, TDD, and DDD. I am also interested in utilizing AI tools to assist with software development, testing, and reviewing my work and collaborating with peers.
 
 - 🔭 I’m currently working on Spring Boot and Azure Functions
 - 🌱 I’m currently learning Domain Driven Design and Test Driven Development
@@ -12,4 +12,4 @@ I am a 15+ years experienced software engineer. My Background is in Java and Spr
 - 📫 How to reach me: Twitter: @rwstockman
 - 😄 Pronouns: He/Him
 - :house: Lives near Minneapolis, the above photo taken while visiting relatives in Phoenix
-- ⚡ Fun fact:  My profile icon is my dog 'Crush', adopted from Midwest Pug Rescue. I adopted him at age 5 and he lived to 15 1/2 years old. Anyone looking for a family pet, I highly recommend adopting rescues. There are many good pets out there looking for a place to call home.
+- ⚡ Fun fact:  My profile icon is my dog 'Crush', adopted from Midwest Pug Rescue. Anyone looking for a family pet, I highly recommend adopting rescues. There are many good pets out there looking for a place to call home.
