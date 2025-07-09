@@ -41,7 +41,7 @@ Lately, I've been exploring AI tools and Model-Control-Prompt (MCP) patterns to 
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ross-stockman-5b755176)
-[![X / Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/rwstockman)
+[![X / Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/rwstockman)
 
 - 😄 Pronouns: He/Him  
 - 🏠 Based near Minneapolis (photo: taken in Phoenix while visiting family)  
