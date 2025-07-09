@@ -1,10 +1,12 @@
 ![profile](https://user-images.githubusercontent.com/3802975/219921938-7923bbaf-a55d-4d99-8bd4-d65436686a4c.jpg)
 
+🔧 Full-stack engineer • ☕ Coffee-fueled problem solver • 🐾 Rescue dog advocate
+
 ### Hi there 👋
 
-I'm a software engineer with over 18 years of experience, specializing in Java and the Spring ecosystem. I enjoy working across the stack and am currently expanding my skills in front-end development with React. Lately, I've been experimenting with AI tools and Model-Control-Prompt (MCP) patterns to explore their potential in real-world applications.
+I'm a **full-stack software engineer** with over 18 years of experience, specializing in Java and the Spring ecosystem. I enjoy building scalable systems and working across the stack—from designing resilient backend services to experimenting with modern frontend frameworks like React.
 
-I'm also passionate about architecture principles and philosophies, such as SOLID vs. CUPID, TDD, and DDD. I believe in leveraging modern tools—including AI—to enhance software development, testing, and team collaboration.
+Lately, I've been exploring AI tools and Model-Control-Prompt (MCP) patterns to better understand how AI can enhance real-world software systems. I’m passionate about software architecture principles and philosophies, such as SOLID vs. CUPID, TDD, and DDD. I believe in leveraging modern tools—such as AI-assisted development—to improve code quality, testing, and collaboration.
 
 ---
 
@@ -37,7 +39,10 @@ I'm also passionate about architecture principles and philosophies, such as SOLI
 ---
 
 ### 📫 Connect With Me
-- Twitter: [@rwstockman](https://twitter.com/rwstockman)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ross-stockman-5b755176)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/rwstockman)
+
 - 😄 Pronouns: He/Him  
 - 🏠 Based near Minneapolis (photo: taken in Phoenix while visiting family)  
 - 🐶 My profile pic is my dog *Crush*, adopted from Midwest Pug Rescue. If you're looking for a pet, consider adoption—many wonderful animals are waiting for homes.
@@ -61,3 +66,7 @@ I'm also passionate about architecture principles and philosophies, such as SOLI
 -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ross-stockman&theme=default)
+
+---
+
+👋 Thanks for checking out my profile! Let’s connect or collaborate on something cool.
